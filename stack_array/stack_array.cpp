@@ -54,3 +54,10 @@ public:
 		}
 	}
 };
+
+int main() {
+	StackArray s;
+	char ch;
+	while (true) {
+		cout << endl;
+		cout << "\n***Stack Menu***\n";
